@@ -1,0 +1,21 @@
+# git cred file
+.gitconfig.local
+
+# no node
+node_modules
+
+# stupid os
+.DS_Store
+Desktop.ini
+
+# thumbnail cache files
+._*
+Thumbs.db
+
+# might appear on external
+.Spotlight-V100
+.Trashes
+
+# compiled python files
+*.pyc
+
