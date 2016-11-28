@@ -7,6 +7,9 @@ alias .....="cd ../../../.."
 alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 
+# start work day
+alias work="cd /Users/jack/Development"
+
 # mv, rm, cp
 alias mv='mv -v'
 alias rm='rm -i -v'
