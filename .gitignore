@@ -19,3 +19,30 @@ Thumbs.db
 # compiled python files
 *.pyc
 
+### root level jazz
+.CFUserTextEncoding
+.Trash/
+.atom/
+.bash_history
+.bash_sessions/
+.cache/
+.config/
+.dropbox/
+.npm/
+.oracle_jre_usage/
+.ssh/
+.subversion/
+.vagrant.d/
+Applications/
+Desktop/
+Development/
+Documents/
+Dropbox/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+VirtualBox VMs/
+
