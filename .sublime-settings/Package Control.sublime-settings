@@ -2,29 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Alignment",
-		"All Autocomplete",
-		"Codebug",
-		"ColorPicker",
-		"Grunt",
-		"Gulp",
-		"HexViewer",
-		"HTMLBeautify",
-		"Javascript Beautify",
-		"JavaScript Completions",
-		"JavaScriptNext - ES6 Syntax",
-		"Pretty JSON",
-		"ReactJS",
-		"SublimeLinter",
-		"SublimeLinter-contrib-scss-lint",
-		"SublimeREPL",
-		"termX",
-		"Theme - Soda",
-		"Theme - Spacegray",
-		"ToggleQuotes",
-		"TypeScript",
-		"TypescriptCompletion",
-		"Whitespace"
 	],
 	"installed_packages":
 	[
