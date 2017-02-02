@@ -4,10 +4,11 @@
 <!-- ============================================ -->
 <!-- app:  http://tmtheme-editor.herokuapp.com    -->
 <!-- code: https://github.com/aziz/tmTheme-Editor -->
+<!-- port this to this soonish: https://github.com/voronianski/oceanic-next-color-scheme/blob/master/Oceanic%20Next.tmTheme -->
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Monokai</string>
+	<string>West World</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -99,6 +100,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#3E99AF</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>

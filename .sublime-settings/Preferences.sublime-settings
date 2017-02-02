@@ -1,4 +1,5 @@
 {
+	"always_show_minimap_viewport": true,
 	"binary_file_patterns":
 	[
 		"node_modules/*"
@@ -8,7 +9,12 @@
 	"color_scheme": "Packages/User/SublimeLinter/WestWorld (SL).tmTheme",
 	"draw_indent_guides": true,
 	"enable_tab_scrolling": false,
-	"font_size": 12,
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Alignment",
@@ -19,9 +25,9 @@
 		"Gulp",
 		"HexViewer",
 		"HTMLBeautify",
+		"JavaScript",
 		"Javascript Beautify",
 		"JavaScript Completions",
-		"JavaScriptNext - ES6 Syntax",
 		"Pretty JSON",
 		"ReactJS",
 		"SublimeLinter",
@@ -36,7 +42,28 @@
 		"Vintage",
 		"Whitespace"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"match_brackets_angle": true,
+	"material_theme_accent_red": true,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_appbar_charcoal": true,
+	"material_theme_arrow_folders": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"material_theme_tree_headings": true,
+	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
 		80,
@@ -49,27 +76,7 @@
 	"spacegray_sidebar_tree_small": true,
 	"status_bar_brighter": true,
 	"tabs_small": true,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-	"always_show_minimap_viewport": true,
-	"bold_folder_labels": true,
-	"font_options": [ "gray_antialias", "subpixel_antialias" ],
-	"indent_guide_options": [ "draw_normal", "draw_active"],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"overlay_scroll_bars": "enabled",
-	"material_theme_tree_headings": true,
-	"material_theme_small_tab": true,
-	"material_theme_tabs_autowidth": true,
-	"material_theme_tabs_separator": true,
-	"material_theme_appbar_charcoal": true,
-	"material_theme_accent_red": true,
-	"material_theme_accent_scrollbars": true,
-	"material_theme_compact_panel": true,
-	"material_theme_panel_separator": true,
-	"material_theme_small_statusbar": true,
-	"material_theme_arrow_folders": true,
-	"material_theme_compact_sidebar": true,
-	"material_theme_bullet_tree_indicator": true
+	"word_wrap": false
 }
