@@ -70,7 +70,6 @@ alias diskspace_report="df -P -kHl"
 
 # Shortcuts
 alias g="git"
-alias n="nano"
 alias ungz="gunzip -k"
 
 # File size
