@@ -75,3 +75,4 @@ shopt -s cdspell;
 
 # Custom path setups
 export PATH=/Users/jack/Development/broadway/bin:$PATH
+export PATH=/Users/jack/Development/alley/broadway/bin:$PATH

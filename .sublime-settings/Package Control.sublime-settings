@@ -33,6 +33,7 @@
 		"ReactJS",
 		"SCSS",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-jsxhint",

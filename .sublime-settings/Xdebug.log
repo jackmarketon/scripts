@@ -1,5 +1,8 @@
-[02/20/2017 10:12:25AM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
-[02/20/2017 10:12:25AM] INFO - Failed to open /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.breakpoints.
-[02/20/2017 10:12:25AM] INFO - Failed to parse /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.breakpoints.
-[02/20/2017 10:12:25AM] INFO - Failed to open /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
-[02/20/2017 10:12:25AM] INFO - Failed to parse /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[02/21/2017 09:14:10AM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[02/21/2017 09:14:10AM] INFO - Failed to open /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.breakpoints.
+[02/21/2017 09:14:10AM] INFO - Failed to parse /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.breakpoints.
+[02/21/2017 09:14:10AM] INFO - Failed to open /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[02/21/2017 09:14:10AM] INFO - Failed to parse /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[02/21/2017 09:15:43AM] WARNING - Could not import subprocess32 module, falling back to subprocess module
+[02/21/2017 09:15:43AM] INFO - db upgrade is necessary
+[02/21/2017 09:16:27AM] INFO - scan_purelang: path: '/Users/jack/Development/alley/broadway/themes/vip/kaiser-foundation-2016/functions.php' lang: PHP
