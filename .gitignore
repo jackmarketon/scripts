@@ -27,6 +27,7 @@ Thumbs.db
 .bash_sessions/
 .cache/
 .config/
+*.cache/
 .dropbox/
 .npm/
 .oracle_jre_usage/
