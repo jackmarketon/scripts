@@ -1,8 +1,33 @@
-[02/21/2017 09:14:10AM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
-[02/21/2017 09:14:10AM] INFO - Failed to open /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.breakpoints.
-[02/21/2017 09:14:10AM] INFO - Failed to parse /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.breakpoints.
-[02/21/2017 09:14:10AM] INFO - Failed to open /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
-[02/21/2017 09:14:10AM] INFO - Failed to parse /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
-[02/21/2017 09:15:43AM] WARNING - Could not import subprocess32 module, falling back to subprocess module
-[02/21/2017 09:15:43AM] INFO - db upgrade is necessary
-[02/21/2017 09:16:27AM] INFO - scan_purelang: path: '/Users/jack/Development/alley/broadway/themes/vip/kaiser-foundation-2016/functions.php' lang: PHP
+[03/15/2017 02:27:02PM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[03/15/2017 02:27:02PM] INFO - Failed to open /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.breakpoints.
+[03/15/2017 02:27:02PM] INFO - Failed to parse /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.breakpoints.
+[03/15/2017 02:27:02PM] INFO - Failed to open /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[03/15/2017 02:27:02PM] INFO - Failed to parse /Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[03/15/2017 02:28:45PM] WARNING - Could not import subprocess32 module, falling back to subprocess module
+[03/15/2017 02:29:13PM] INFO - eval 'obj' at main.js#13  <Trigger 'javascript-complete-names' at 420>
+[03/15/2017 02:29:13PM] INFO - start scope is (<Element 'scope' at 0x10b750d70>, [])
+[03/15/2017 02:29:13PM] INFO - _completion_names_from_scope:: 'obj', scoperef: (<Element 'scope' at 0x10b750d70>, [])
+[03/15/2017 02:29:13PM] DEBUG - ext conflict: '.xs' for <C LangInfo> conflicts with the same for <C++ LangInfo> (<C LangInfo> wins)
+[03/15/2017 02:29:13PM] DEBUG - ext conflict: '.django.html' for <Django Template LangInfo> conflicts with the same for <Django XHTML Template LangInfo> (<Django Template LangInfo> wins)
+[03/15/2017 02:29:13PM] DEBUG - ext conflict: '.po' for <PO LangInfo> conflicts with the same for <GetText LangInfo> (<PO LangInfo> wins)
+[03/15/2017 02:29:13PM] DEBUG - ext conflict: '.pb' for <PureBasic LangInfo> conflicts with the same for <PowerBasic LangInfo> (<PureBasic LangInfo> wins)
+[03/15/2017 02:29:13PM] DEBUG - ext update: ext: .sql, <MySQL LangInfo> is a minor variant of <SQL LangInfo>
+[03/15/2017 02:29:13PM] DEBUG - ext update: found variant for ext .sql, li:<MySQL LangInfo>, using:<SQL LangInfo>
+[03/15/2017 02:29:13PM] DEBUG - ext conflict: '.django.html' for <Django HTML Template LangInfo> conflicts with the same for <Django Template LangInfo> (<Django HTML Template LangInfo> wins)
+[03/15/2017 02:29:13PM] DEBUG - ext conflict: '.html' for <HTML5 LangInfo> conflicts with the same for <HTML LangInfo> (<HTML5 LangInfo> wins)
+[03/15/2017 02:29:13PM] DEBUG - ext conflict: '.htm' for <HTML5 LangInfo> conflicts with the same for <HTML LangInfo> (<HTML5 LangInfo> wins)
+[03/15/2017 02:29:13PM] DEBUG - ext conflict: '.django.html' for <Django XML Template LangInfo> conflicts with the same for <Django HTML Template LangInfo> (<Django XML Template LangInfo> wins)
+[03/15/2017 02:29:13PM] DEBUG - ext conflict: '.js' for <Node.js LangInfo> conflicts with the same for <JavaScript LangInfo> (<Node.js LangInfo> wins)
+[03/15/2017 02:29:13PM] DEBUG - ext conflict: '.django.html' for <Django Text Template LangInfo> conflicts with the same for <Django XML Template LangInfo> (<Django Text Template LangInfo> wins)
+[03/15/2017 02:29:13PM] DEBUG - ext update: ext: .py, <Python3 LangInfo> is a minor variant of <Python LangInfo>
+[03/15/2017 02:29:13PM] DEBUG - ext update: found variant for ext .py, li:<Python3 LangInfo>, using:<Python LangInfo>
+[03/15/2017 02:29:13PM] DEBUG - ext update: ext: .pyw, <Python3 LangInfo> is a minor variant of <Python LangInfo>
+[03/15/2017 02:29:13PM] DEBUG - ext update: found variant for ext .pyw, li:<Python3 LangInfo>, using:<Python LangInfo>
+[03/15/2017 02:29:13PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0x10b750d70>, [])
+[03/15/2017 02:29:13PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0x10b706d70>, [])
+[03/15/2017 02:29:13PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0x10b706d70>, ['Window'])
+[03/15/2017 02:29:13PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript curdirlib>
+[03/15/2017 02:29:13PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript cataloglib: jQuery>
+[03/15/2017 02:29:13PM] INFO - _completion_names_from_scope:: include everything from lib: <javascript stdlib>
+[03/15/2017 02:29:13PM] INFO -     cplns: []
+[03/15/2017 02:29:13PM] INFO - done eval: success
